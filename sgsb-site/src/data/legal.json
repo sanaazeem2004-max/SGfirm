@@ -1,0 +1,298 @@
+[
+ {
+  "slug": "privacy-policy",
+  "title": "Privacy Policy",
+  "blocks": [
+   {
+    "t": "p",
+    "v": "This privacy policy applies to information collected online from users of this website. In this policy, you can learn what kind of information we collect, when and how we might use that information, how we protect the information, and the choices you have with respect to your personal information."
+   },
+   {
+    "t": "p",
+    "v": "What personal information is collected through this website and how is it used?"
+   },
+   {
+    "t": "p",
+    "v": "We collect information about our users in three ways: directly from the user, from our Web server logs and through cookies. We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. We don’t share any of the information you provide with others, unless we say so in this Privacy Policy, or when we believe in good faith that the law requires it."
+   },
+   {
+    "t": "p",
+    "v": "User-supplied information: If you fill out the “contact” form on this website, we will ask you to provide some personal information (such as e-mail address, name, phone number and state). We only require that you provide an e-mail address on the contact form. Further, if chat is available through this site, you may be asked to provide information if you participate in an online chat. Please do not submit any confidential, proprietary or sensitive personally identifiable information (e.g. Social Security Number; date of birth; drivers license number; or credit card, bank account or other financial information) (collectively, “Sensitive Information”). If you submit any Sensitive Information, you do so at your own risk and we will not be liable to you or responsible for consequences of your submission."
+   },
+   {
+    "t": "p",
+    "v": "Information that you provide to us through the contact form or an online chat will be used so that we may respond to your inquiry. We may also use information you provide to us to communicate with you in the future. If you do not wish to receive such communications, you may opt-out (unsubscribe) as described below."
+   },
+   {
+    "t": "p",
+    "v": "Web server logs: When you visit our website, we may track information about your visit and store that information in web server logs, which are records of the activities on our sites. The servers automatically capture and save the information electronically. Examples of the information we may collect include:"
+   },
+   {
+    "t": "p",
+    "v": "your unique Internet protocol address;"
+   },
+   {
+    "t": "p",
+    "v": "the name of your unique Internet service provider;"
+   },
+   {
+    "t": "p",
+    "v": "the town/city, county/state and country from which you access our website;"
+   },
+   {
+    "t": "p",
+    "v": "the kind of browser or computer you use;"
+   },
+   {
+    "t": "p",
+    "v": "the number of links you click within the site;"
+   },
+   {
+    "t": "p",
+    "v": "the date and time of your visit;"
+   },
+   {
+    "t": "p",
+    "v": "the web page from which you arrived to our site;"
+   },
+   {
+    "t": "p",
+    "v": "the pages you viewed on the site; and"
+   },
+   {
+    "t": "p",
+    "v": "certain searches/queries that you conducted via our website(s)."
+   },
+   {
+    "t": "p",
+    "v": "The information we collect in web server logs helps us administer the site, analyze its usage, protect the website and its content from inappropriate use and improve the user’s experience."
+   },
+   {
+    "t": "p",
+    "v": "Cookies: In order to offer and provide a customized and personal service, our websites and applications may use cookies and similar technologies to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a Web server and stored on your computer’s hard drive. We use cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies also can tell us where visitors go on a website and allow us to save preferences for you so you won’t have to re-enter them each time you visit. The use of cookies is relatively standard. Most Internet browsers are initially set up to accept cookies, but you can use your browser to either notify you when you receive a cookie or to disable cookies."
+   },
+   {
+    "t": "p",
+    "v": "If you wish to disable cookies from this site, you can do so using your browser. You should understand that some features of many sites may not function properly if you don’t accept cookies. For more information about using browsers to manage cookies, please see All About Cookies. You can also refuse to accept Flash cookies from this website using Adobe’s Flash management tools. You can opt-out of Google’s use of cookies by visiting Google’s Ad Settings."
+   },
+   {
+    "t": "p",
+    "v": "By visiting this website, you consent to the use of cookies and similar technologies in accordance with this Privacy Statement."
+   },
+   {
+    "t": "p",
+    "v": "Third-party Services: We may use services hosted by third parties, including Adobe Site Catalyst, to assist in providing our services and to help us understand the use of our site by our visitors. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third-party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors."
+   },
+   {
+    "t": "p",
+    "v": "In addition, we may use services provided by third parties to display relevant content, products, services and advertising to you. These third parties may use cookies, web beacons and similar technologies to collect or receive information from this website and elsewhere on the internet. They may then use that information to provide measurement services so we can understand your interests and retarget advertisements based on your previous visits to this website. Please keep in mind that we do not share your personal information with any third-party advertiser, ad server or ad network."
+   },
+   {
+    "t": "p",
+    "v": "You may be able to opt-out of the collection and use of information for ad targeting by some third parties by visiting www.aboutads.info/choices. You can opt-out of Google’s use of cookies by visiting Google’s Ad Settings. You can visit this page to opt out of AdRoll’s and their partners’ targeted advertising. Please see “Cookies” in the section above for more information on how you can control the use of cookies on your computer."
+   },
+   {
+    "t": "p",
+    "v": "California Do Not Track: Our web services do not alter, change, or respond upon receiving Do Not Track (DNT) requests or signals in browsers. As described in more detail above, we track user activity using web server logs, cookies and similar technologies. Information collected in web server logs helps us analyze website usage and improve the user’s experience. Cookies allow us to offer you a customized experience and present relevant advertising to you."
+   },
+   {
+    "t": "h",
+    "v": "How is personal information protected?"
+   },
+   {
+    "t": "p",
+    "v": "We take certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use or disclosure. However, we cannot guarantee that unauthorized persons will always be unable to defeat our security measures."
+   },
+   {
+    "t": "h",
+    "v": "Who has access to the information?"
+   },
+   {
+    "t": "p",
+    "v": "We will not sell, rent, or lease mailing lists or other user data to others, and we will not make your personal information available to any unaffiliated parties, except as follows:"
+   },
+   {
+    "t": "p",
+    "v": "to agents, website vendors and/or contractors who may use it on our behalf or in connection with their relationship with us;"
+   },
+   {
+    "t": "p",
+    "v": "if we are unable to assist with your matter, but know an unaffiliated attorney or firm that may be able to help you, we may refer you and share information you provided us with that party; and"
+   },
+   {
+    "t": "p",
+    "v": "as required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another firm or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property."
+   },
+   {
+    "t": "p",
+    "v": "How can I correct, amend or delete my personal information and/or opt out of future communications?"
+   },
+   {
+    "t": "p",
+    "v": "You may opt out of any future contacts from us at any time. Contact us via the phone number, contact form or mailing address on our website at any time to:"
+   },
+   {
+    "t": "p",
+    "v": "see what data we have about you, if any;"
+   },
+   {
+    "t": "p",
+    "v": "change/correct any data we have about you;"
+   },
+   {
+    "t": "p",
+    "v": "ask us to delete any data we have about you; and/or"
+   },
+   {
+    "t": "p",
+    "v": "opt out of future communications from us."
+   },
+   {
+    "t": "p",
+    "v": "If you have any additional questions or concerns about this privacy policy, please contact us via the phone number, contact form or mailing address listed on this website. If our information practices change in a significant way, we will post the policy changes here."
+   },
+   {
+    "t": "h",
+    "v": "Effective September 14, 2015"
+   }
+  ]
+ },
+ {
+  "slug": "terms-conditions",
+  "title": "Terms & Conditions",
+  "blocks": [
+   {
+    "t": "p",
+    "v": "Please read these Terms of Service (“Terms”, “Terms of Service”) carefully before using the www.sgsblaw.com website (the “Service”) operated by SGSB (“us”, “we”, or “our”). Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service. By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service."
+   },
+   {
+    "t": "h",
+    "v": "Links To Other Web Sites"
+   },
+   {
+    "t": "p",
+    "v": "Our Service may contain links to third-party web sites or services that are not owned or controlled by SGSB. SGSB has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that SGSB shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services. We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit."
+   },
+   {
+    "t": "h",
+    "v": "Governing Law"
+   },
+   {
+    "t": "p",
+    "v": "These Terms shall be governed and construed in accordance with the laws of California, United States, without regard to its conflict of law provisions. Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service."
+   },
+   {
+    "t": "h",
+    "v": "Changes"
+   },
+   {
+    "t": "p",
+    "v": "We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service."
+   },
+   {
+    "t": "h",
+    "v": "Contact Us"
+   },
+   {
+    "t": "p",
+    "v": "If you have any questions about these Terms, please contact us. Last Updated 6-10-2016"
+   }
+  ]
+ },
+ {
+  "slug": "disclaimer",
+  "title": "Disclaimer",
+  "blocks": [
+   {
+    "t": "p",
+    "v": "The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established."
+   }
+  ]
+ },
+ {
+  "slug": "accessibility-statement",
+  "title": "Accessibility Statement",
+  "blocks": [
+   {
+    "t": "h",
+    "v": "General"
+   },
+   {
+    "t": "p",
+    "v": "Access to any company’s website can be challenging for persons having certain disabilities. A person’s disability is often unique. What may work well for one person may cause difficulties for another person. Our company has made efforts to accommodate as many of our customers and potential customers as is reasonable given our size, resources, and knowledge of our customers, and potential customer’s needs. To that end we have engaged the services of professionals to assist and advise us in these matters."
+   },
+   {
+    "t": "h",
+    "v": "Accessibility on this Website"
+   },
+   {
+    "t": "p",
+    "v": "Our website provides a number of methods, features, and policies that can help with access to our website and/or to products or services provided or referred to on our website or by our business. There are also various aids available by third parties and which are provided by most browsers."
+   },
+   {
+    "t": "p",
+    "v": "If you are having difficulty with access to our website even after utilizing any access features within this website and/or any third party or browser features, we invite you to contact us for further assistance. Contact information is set forth below."
+   },
+   {
+    "t": "h",
+    "v": "Some Specific Accessibility Features Within this Website"
+   },
+   {
+    "t": "p",
+    "v": "This website contains a plugin, also known as a Widget, called UserWay Website Accessibility (“UserWay”), which is powered by a third party dedicated accessibility server. The software allows us to improve its access, particularly related to certain types of disabilities, and UserWay has advised by way of its own accessibility statement that they make efforts to follow the Web Content Accessibility Guidelines (WCAG 2.1). On our website, the UserWay widget is located in the lower right corner of most pages."
+   },
+   {
+    "t": "h",
+    "v": "Enabling the Accessibility Menu"
+   },
+   {
+    "t": "p",
+    "v": "The accessibility menu can be enabled by clicking the accessibility menu icon that appears after clicking on the Widget described above. After triggering the accessibility menu, please wait a moment for the accessibility menu to load in its entirety."
+   },
+   {
+    "t": "h",
+    "v": "Disclaimer"
+   },
+   {
+    "t": "p",
+    "v": "We anticipate that from time to time, within our resources, we will be making modifications to parts of our website, and possibly modifications to accessibility of our website. Reasonable efforts toward improving seamless, accessible and unhindered use of websites by customers and potential customers is generally a worthwhile goal. Moving closer to this goal will often depend on the knowledge the company has regarding any particular difficulties those using the website might encounter, as well as available resources and improvements with technology."
+   },
+   {
+    "t": "p",
+    "v": "Despite the efforts we may have made regarding accessibility, consistent with normal business practices for a company of our size and resources, some content, features, processes, or policies, may be improved, so we welcome your suggestions."
+   },
+   {
+    "t": "h",
+    "v": "Third Party Applications"
+   },
+   {
+    "t": "p",
+    "v": "Our website may use third party add-ons or “plugins” for certain functions, such as Google maps, social media feeds, popups, etc. These may not work, or may not work the same for every user and/or every type of disability. We do not have control over the structure of these plugins and are unable to modify them at all or to the extent that would accommodate every user of our website, and we are not responsible for those elements which we do not control."
+   },
+   {
+    "t": "p",
+    "v": "Our website may link to third party web stores, websites, ordering platforms, or retailers that sell our goods or products online. We do not have control over the structure of these websites and are unable to modify them in any way, and we are not responsible for the accessibility of these third party websites that we do not control."
+   },
+   {
+    "t": "h",
+    "v": "We are Here for You"
+   },
+   {
+    "t": "p",
+    "v": "If you are experiencing difficulties with any content on our website because of a disability, or if you require assistance with any part of our site because of your particular disability, please contact us and let us know. We will be happy to assist."
+   },
+   {
+    "t": "p",
+    "v": "You may send an email, explaining in as much detail as possible what type of difficulty you had, or may have had, or believe others may have. These types of emails should be sent here for forwarding to us."
+   },
+   {
+    "t": "p",
+    "v": "Note: If the email is sent to a third party website or mail server for forwarding to us, the third party website or mail server does not itself read or respond to these emails, but will only forward such email to us without prior review."
+   },
+   {
+    "t": "p",
+    "v": "In contacting us by telephone or email, your privacy will be strictly protected. This means that you will not be required to provide any personal information, including but not limited to your name, address, telephone number, the specific type of disability you may have, information about goods, products, or services you might be interested in, email address (unless you include it in an email you send to us or to our representatives)."
+   }
+  ]
+ }
+]

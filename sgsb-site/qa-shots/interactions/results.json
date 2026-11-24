@@ -1,0 +1,97 @@
+[
+ {
+  "name": "Practice Areas dropdown opens on hover",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Dropdown link navigates",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Practice detail H1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Attorneys dropdown opens on click",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Header stays fixed after scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Search → Enter navigates to attorney",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Practice filter: Children & parenting → 4",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Practice search \"prenuptial\" → 1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Attorney filter Of Counsel → 4 cards",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "News year tab 2017 shows entries",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Form shows validation errors when empty",
+  "ok": true,
+  "detail": "6 errors"
+ },
+ {
+  "name": "Form submits and shows confirmation",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Internal link crawl (38 unique URLs)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "External link reachable: https://www.facebook.com/SGSBLawFirm/",
+  "ok": true,
+  "detail": "400"
+ },
+ {
+  "name": "No runtime errors (desktop run)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Mobile menu opens",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "Mobile menu link navigates & closes",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "name": "No horizontal overflow on mobile detail page",
+  "ok": true,
+  "detail": "overflow=0"
+ },
+ {
+  "name": "Reduced motion disables marquee",
+  "ok": true,
+  "detail": "none"
+ }
+]

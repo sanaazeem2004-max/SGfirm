@@ -1,0 +1,194 @@
+@import 'tailwindcss';
+
+/* ------------------------------------------------------------------
+   Design tokens — one source of truth for colour, type and rhythm.
+   ------------------------------------------------------------------ */
+@theme {
+  --color-ink: #131826;
+  --color-ink-2: #1b2133;
+  --color-navy: #1d3b5e;
+  --color-brand: #22598a; /* SGSB logo blue */
+  --color-crimson: #8c2131;
+  --color-crimson-dark: #741a28;
+  --color-sand: #cbb48a;
+  --color-cream: #f6f3ee;
+  --color-paper: #fbfaf7;
+  --color-stone: #75695c;
+  --color-muted: #5b6070;
+  --color-line: #e4ded3;
+
+  --font-serif: 'Noto Serif Variable', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* ------------------------------------------------------------------
+   Layout primitives — every page uses these, never ad-hoc margins.
+   ------------------------------------------------------------------ */
+@utility shell {
+  width: calc(100% - 40px);
+  max-width: 1280px;
+  margin-inline: auto;
+  @media (width >= 48rem) {
+    width: calc(100% - 64px);
+  }
+  @media (width >= 64rem) {
+    width: calc(100% - 80px);
+  }
+}
+
+/* Vertical rhythm for sections: 64 / 88 / 112px */
+@utility section {
+  padding-block: 4rem;
+  @media (width >= 48rem) {
+    padding-block: 5.5rem;
+  }
+  @media (width >= 64rem) {
+    padding-block: 7rem;
+  }
+}
+
+/* Veritas-style highlight headline: each line sits on its own block. */
+@utility mark-line {
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  padding: 0.04em 0.28em 0.1em;
+}
+
+@utility eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+  body {
+    @apply bg-paper font-sans text-ink;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-serif;
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-crimson);
+    outline-offset: 3px;
+  }
+  ::selection {
+    background: var(--color-sand);
+    color: var(--color-ink);
+  }
+}
+
+/* Animated underline for text links */
+@utility link-underline {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 1px;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  transition: background-size 0.35s var(--ease-out-soft);
+  &:hover,
+  &:focus-visible {
+    background-size: 100% 1px;
+  }
+}
+
+/* Long-form prose (bios, articles, legal) */
+@utility prose-sgsb {
+  color: var(--color-muted);
+  font-size: 1.0625rem;
+  line-height: 1.8;
+  & > * + * {
+    margin-top: 1.15em;
+  }
+  & h2,
+  & h3 {
+    color: var(--color-ink);
+    font-family: var(--font-serif);
+    font-weight: 700;
+    line-height: 1.25;
+    margin-top: 2em;
+  }
+  & h2 {
+    font-size: 1.6rem;
+  }
+  & h3 {
+    font-size: 1.25rem;
+  }
+  & ul {
+    list-style: none;
+    padding: 0;
+  }
+  & li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-top: 0.55em;
+  }
+  & li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.72em;
+    width: 0.55rem;
+    height: 0.55rem;
+    border: 1.5px solid var(--color-crimson);
+  }
+}
+
+/* Periodic light sweep across a button */
+@keyframes shine {
+  0%,
+  70% {
+    transform: translateX(-120%) skewX(-20deg);
+  }
+  100% {
+    transform: translateX(320%) skewX(-20deg);
+  }
+}
+@utility shine {
+  position: relative;
+  &::after {
+    content: '';
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: 35%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.35), transparent);
+    animation: shine 4.5s ease-in-out 2.5s infinite;
+    pointer-events: none;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    &::after {
+      animation: none;
+      display: none;
+    }
+  }
+}
+
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+@utility animate-marquee {
+  animation: marquee 40s linear infinite;
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+  }
+}
